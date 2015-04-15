@@ -1,3 +1,3 @@
 var preston = function() {
-alert("Preston Sucks.")
+alert("Ian's a retard.")
 };
