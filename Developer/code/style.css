@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 9dc8e3743d4964d389d6b51c9f1c8d4ec0da3dfe
 #symbol {
   position: absolute;
   left: 25px;
@@ -6,7 +11,13 @@
   height: 74px;
   z-index: 17;
 }
+<<<<<<< HEAD
 
 #background {
     margin: -8px 0px 0px -9px;
 };
+=======
+#background {
+    margin: -8px 0px 0px -9px;
+};
+>>>>>>> 9dc8e3743d4964d389d6b51c9f1c8d4ec0da3dfe
