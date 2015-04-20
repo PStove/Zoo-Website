@@ -1,6 +1,4 @@
-#background {
-    margin: -8px 0px 0px -9px;
-};
+
 
 #symbol {
   position: absolute;
@@ -10,3 +8,6 @@
   height: 74px;
   z-index: 17;
 }
+#background {
+    margin: -8px 0px 0px -9px;
+};
