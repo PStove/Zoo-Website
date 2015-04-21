@@ -1,3 +1,14 @@
+#header {
+  font-size: 33px;
+  font-family: "Myriad Pro";
+  color: rgb(10, 9, 9);
+  line-height: .5;
+  text-align: left;
+  position: absolute;
+  left: 100px;
+  top: 1px;
+  z-index: 25;
+}
 #symbol {
   position: absolute;
   left: 25px;
@@ -7,6 +18,63 @@
   z-index: 17;
 }
 
+#nav-bar {
+  font-size: 18px;
+  font-family: "Myriad Pro";
+  color: rgb(10, 9, 9);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 671.844px;
+  top: 28.7px;
+  z-index: 23;  
+}
+#welcome-header {
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(36, 224, 226);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 82.844px;
+  top: 132.828px;
+  z-index: 21; 
+}
+#information-header {
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(10, 9, 9);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 61.004px;
+  top: 416.215px;
+  width: 144px;
+  height: 22px;
+  z-index: 16;
+}
+#new-features-header {
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(36, 224, 226);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 40.844px;
+  top: 819.5px;
+  z-index: 22;
+}
+#how-we-started-header {
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 40.844px;
+  top: 1164px;
+  z-index: 9;
+}   
 #background {
     margin: -8px 0px 0px -9px;
 };
