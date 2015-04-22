@@ -1,3 +1,12 @@
+#background {
+    margin: -8px 0px 0px -9px;
+    postion:absolute;
+};
+
+#leaf-border{
+ margin:-8px 0px 0px -9px; 
+    postion:absolute;
+}
 #header {
   font-size: 33px;
   font-family: "Myriad Pro";
@@ -74,7 +83,4 @@
   left: 40.844px;
   top: 1164px;
   z-index: 9;
-}   
-#background {
-    margin: -8px 0px 0px -9px;
-};
+}  
