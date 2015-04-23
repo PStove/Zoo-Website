@@ -1,12 +1,3 @@
-#background {
-    margin: -8px 0px 0px -9px;
-    postion:absolute;
-};
-
-#leaf-border{
- margin:-8px 0px 0px -9px; 
-    postion:absolute;
-}
 #header {
   font-size: 30px;
   font-family: "Myriad Pro";
@@ -73,6 +64,7 @@
   top: 1164px;
   z-index: 9;
 }  
+<<<<<<< HEAD
 
 #home {
     margin: -3110px 0px 0px 670px;
@@ -94,3 +86,9 @@
     width: 115px
         
 }
+=======
+#background {
+    margin: -8px 0px 0px -9px;
+    postion:absolute;
+};
+>>>>>>> 14cc543d62121ab70291b3b4645d66d515940f9c
