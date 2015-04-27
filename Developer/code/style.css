@@ -68,7 +68,7 @@
 }
 
 #home {
-    margin: -1510px 0px 0px 1390px;
+    margin: -50px 0px 0px 1390px;
     font-family: monospace;
     font-size: 25px;
     color:black;
@@ -90,4 +90,8 @@
 
 #background {
     margin: -8px 0px 0px -9px
+}
+
+#top-leaves {
+    margin: -1540px 0px 0px 615px
 }
