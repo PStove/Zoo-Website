@@ -75,30 +75,18 @@
 }
 
 #about {
-<<<<<<< HEAD
-    margin: -22px 0px 0px 730px;
-=======
     margin: -29px 0px 0px 1495px;
->>>>>>> 9e6297eb687c72e68c28b8605d9a7948220ab2e1
     font-family: monospace;
     font-size: 25px;
 }
 
 #contact {
     font-family: monospace;
-<<<<<<< HEAD
-    font-size: 19px;
-    margin: -22px 0px 0px 856px;
-    height: 22px;
-    width: 115px
-=======
     font-size: 25px;
     margin: -28px 0px 0px 1660px;
     height: 25px;
     width: 159px
->>>>>>> 9e6297eb687c72e68c28b8605d9a7948220ab2e1
 }
-
 #background {
     margin: -8px 0px 0px -9px
 };
