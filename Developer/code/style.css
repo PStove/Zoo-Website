@@ -74,16 +74,26 @@
     color:black;
 }
 
+#tilde1 {
+    margin: -50px 0px 0px 1464px;
+    font-size: 25px
+}
+
 #about {
     margin: -29px 0px 0px 1495px;
     font-family: monospace;
     font-size: 25px;
 }
 
+#tilde2 {
+    margin: -54px 0px 0px 1630px;
+    font-size: 25px;
+}
+
 #contact {
     font-family: monospace;
     font-size: 25px;
-    margin: -28px 0px 0px 1660px;
+    margin: -29px 0px 0px 1660px;
     height: 25px;
     width: 159px
 }
