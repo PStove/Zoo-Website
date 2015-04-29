@@ -22,51 +22,50 @@
 
 #welcome-header {
   font-size: 30px;
-  font-family:;
+  font-family: "Myriad Pro";
   color: rgb(36, 224, 226);
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 82.844px;
-  top: 132.828px;
-  z-index: 21; 
+  left: 497.844px;
+  top: 130.828px;
+  z-index: 11;
 }
 #information-header {
-  font-size: 30px;
-  font-family:;
-  color: rgb(10, 9, 9);
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(36, 227, 229);
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 61.004px;
-  top: 416.215px;
+  left: 483.004px;
+  top: 412.215px;
   width: 144px;
   height: 22px;
-  z-index: 16;
+  z-index: 18;
 }
 #new-features-header {
   font-size: 30px;
-  font-family: ;
+  font-family: "Myriad Pro";
   color: rgb(36, 224, 226);
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 40.844px;
-  top: 819.5px;
-  z-index: 22;
+  left: 497.844px;
+  top: 830.5px;
+  z-index: 28;
 }
 #how-we-started-header {
   font-size: 30px;
-  font-family:;
+  font-family: "Myriad Pro";
   color: rgb(0, 0, 0);
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 40.844px;
-  top: 1164px;
-  z-index: 9;
+  left: 495.844px;
+  top: 1176px;
+  z-index: 36;
 }
-
 #home {
     margin: -50px 0px 0px 1390px;
     font-family: monospace;
