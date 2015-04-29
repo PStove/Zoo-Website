@@ -21,3 +21,12 @@ var preston = function () {
 var cara = function () {
     document.getElementById("contact").style.color="black"
 };
+
+var tyler = function() {
+    if (document.getElementById("symbol2").style.visibility == "hidden") {
+        document.getElementById("symbol2").style.visibility="visible"
+    }
+    else {
+        document.getElementById("symbol2").style.visibility="hidden"
+    }
+};

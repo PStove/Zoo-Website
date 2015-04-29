@@ -20,6 +20,16 @@
   z-index: 17;
 }
 
+#symbol2 {
+  position: absolute;
+  left: 25px;
+  top: 2px;
+  width: 72px;
+  height: 74px;
+  z-index: 17;
+  visibility: hidden;
+}
+
 #welcome-header {
   font-size: 30px;
   font-family:;
