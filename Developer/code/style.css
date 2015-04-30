@@ -97,6 +97,10 @@ margin: 169px 0px 0px 453px;
     font-size: 25px;
 }
 
+#tidle3{
+    visibility: hidden;
+}
+
 #contact {
     font-family: monospace;
     font-size: 25px;
