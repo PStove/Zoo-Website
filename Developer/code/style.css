@@ -40,6 +40,7 @@
 margin: -860px 0px 0px 478px;
   z-index: 11;
 }
+
 #information-header {
   font-size: 30px;
   font-family: "Myriad Pro";
@@ -118,6 +119,7 @@ margin: 169px 0px 0px 453px;
 #top-leaves {
     margin: -1540px 0px 0px 615px
 }
+<<<<<<< HEAD
 
 #welcome-picture {
     margin: -100px 0px 0px -390px;
@@ -134,3 +136,5 @@ margin: 169px 0px 0px 453px;
 #how-we-started-picture {
     margin: -45px 0px 0px -375px;
 }
+=======
+>>>>>>> d0bf80520b34cd2e690e553d843bf114376b275e
