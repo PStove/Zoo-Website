@@ -37,8 +37,7 @@
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 497.844px;
-  top: 130.828px;
+margin: -860px 0px 0px 478px;
   z-index: 11;
 }
 #information-header {
@@ -61,8 +60,7 @@
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 497.844px;
-  top: 830.5px;
+margin: -190px 0px 0px 462px;
   z-index: 28;
 }
 #how-we-started-header {
@@ -72,8 +70,7 @@
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 495.844px;
-  top: 1176px;
+margin: 169px 0px 0px 453px;
   z-index: 36;
 }
 #home {
@@ -120,4 +117,20 @@
 
 #top-leaves {
     margin: -1540px 0px 0px 615px
+}
+
+#welcome-picture {
+    margin: -100px 0px 0px -390px;
+}
+
+#information-picture {
+    margin: -50px 0px 0px -389px;
+}
+
+#new-features-picture {
+    margin: -40px 0px 0px -380px;
+}
+
+#how-we-started-picture {
+    margin: -45px 0px 0px -375px;
 }
