@@ -30,3 +30,6 @@ var tyler = function() {
         document.getElementById("symbol2").style.visibility="hidden"
     }
 };
+
+var ian2 = function() {                window.open("https://www.google.com/maps/space/moon/@-8.4685202,114.8521308,8396037m/data=!3m1!1e3?hl=en.")
+};
