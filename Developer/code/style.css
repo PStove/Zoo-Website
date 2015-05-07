@@ -75,26 +75,26 @@ margin: 169px 0px 0px 453px;
   z-index: 36;
 }
 #home {
-    margin: -2585px 0px 0px 1390px;
+    margin: -2585px 0px 0px 1350px;
     font-family: monospace;
-    font-size: 25px;
+    font-size: 30px;
     color:black;
 }
 
 #tidle1 {
-    margin: -50px 0px 0px 1464px;
-    font-size: 25px
+    margin: -55px 0px 0px 1450px;
+    font-size: 30px
 }
 
 #about {
-    margin: -29px 0px 0px 1495px;
+    margin: -35px 0px 0px 1495px;
     font-family: monospace;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 #tidle2 {
-    margin: -54px 0px 0px 1630px;
-    font-size: 25px;
+    margin: -65px 0px 0px 1660px;
+    font-size: 30px;
 }
 
 #tidle3{
@@ -103,10 +103,10 @@ margin: 169px 0px 0px 453px;
 
 #contact {
     font-family: monospace;
-    font-size: 25px;
-    margin: -29px 0px 0px 1660px;
+    font-size: 30px;
+    margin: -35px 0px 0px 1700px;
     height: 25px;
-    width: 159px
+    width: 190px
 }
 
 #panda-vid {
