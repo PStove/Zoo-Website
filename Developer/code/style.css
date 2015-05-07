@@ -31,7 +31,7 @@
 }
 
 #welcome-header {
-  font-size: 30px;
+  font-size: 35px;
   font-family: "Myriad Pro";
   color: rgb(36, 224, 226);
   line-height: 1.2;
@@ -42,36 +42,35 @@ margin: -860px 0px 0px 478px;
 }
 
 #information-header {
-  font-size: 30px;
+  font-size: 35px;
   font-family: "Myriad Pro";
   color: black;
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 483.004px;
-  top: 412.215px;
+  margin: 200px 0px 0px 454px;
   width: 144px;
   height: 22px;
   z-index: 18;
 }
 #new-features-header {
-  font-size: 30px;
+  font-size: 35px;
   font-family: "Myriad Pro";
   color: rgb(36, 224, 226);
   line-height: 1.2;
   text-align: left;
   position: absolute;
-margin: -190px 0px 0px 462px;
+margin: 1200px 0px 0px 462px;
   z-index: 28;
 }
 #how-we-started-header {
-  font-size: 30px;
+  font-size: 35px;
   font-family: "Myriad Pro";
   color: rgb(0, 0, 0);
   line-height: 1.2;
   text-align: left;
   position: absolute;
-margin: 169px 0px 0px 453px;
+margin: 2129px 0px 0px 453px;
   z-index: 36;
 }
 #home {
