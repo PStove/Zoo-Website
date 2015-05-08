@@ -2,6 +2,10 @@
     cursor: url(images/cursor2.png), auto;
 }
 
+#backgroung {
+    visibility: hidden;
+    margin: -976px 0px 0px -8px
+}
 #header {
   font-size: 28px;
   font-family: "Myriad Pro";
@@ -162,4 +166,8 @@ margin: 2129px 0px 0px 453px;
     font-size:16px;
     height:;
     width:420px;
+}
+
+#all {
+    visibility: visible;
 }

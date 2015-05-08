@@ -33,3 +33,8 @@ var tyler = function() {
 
 var ian2 = function() {                window.open("https://www.google.com/maps/space/moon/@-8.4685202,114.8521308,8396037m/data=!3m1!1e3?hl=en.")
 };
+
+var preston2 = function() {
+    document.getElementById("all").style.visibility="hidden";
+    document.getElementById("backgroung").style.visibility="visible";
+};
