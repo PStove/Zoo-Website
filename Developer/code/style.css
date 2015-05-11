@@ -56,7 +56,7 @@ margin: -860px 0px 0px 478px;
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  margin: 200px 0px 0px 454px;
+  margin: 130px 0px 0px 454px;
   width: 144px;
   height: 22px;
   z-index: 18;
@@ -167,29 +167,28 @@ margin: 2129px 0px 0px 453px;
     height:;
     width:420px;
 }
-<<<<<<< HEAD
+
 #information-text1 {
-    margin:-150px 10px 100px 50px;
+    margin:-190px 10px 100px 18px;
     font-size:16px;
     height:;
     width:420px;
 }
-information-text2 {
-    
+#information-text2 {
+    margin:-879px 10px 100px 473px;
     font-size:16px;
     height:;
     width:420px;
 }
-information-text3 {
-    
+
+#information-text3 {
+    margin: -879px 0px 0px 928px;
     font-size:16px;
     height:;
     width:420px;
 }
-    
-=======
 
 #all {
     visibility: visible;
 }
->>>>>>> 43c11777e67193340db9d282ff2e91ab9e2de649
+
