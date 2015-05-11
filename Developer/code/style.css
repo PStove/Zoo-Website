@@ -188,6 +188,48 @@
     width:420px;
 }
 
+#new-features-text1 {
+    margin:-200px 10px 100px 9px;
+    font-size:16px;
+    height:;
+    width:420px;
+}
+
+#new-features-text2 {
+    margin:-879px 10px 100px 464px;
+    font-size:16px;
+    height:;
+    width:420px;
+}
+
+#new-features-text3 {
+    margin:-879px 10px 100px 919px;
+    font-size:16px;
+    height:;
+    width:420px;
+}
+
+#how-we-started-text1 {
+    margin:-200px 10px 100px 9px;
+    font-size:16px;
+    height:;
+    width:420px;
+}
+
+#how-we-started-text2 {
+    margin:-879px 10px 100px 464px;
+    font-size:16px;
+    height:;
+    width:420px;
+}
+
+#how-we-started-text3 {
+    margin:-879px 10px 100px 919px;
+    font-size:16px;
+    height:;
+    width:420px;
+}
+
 #all {
     visibility: visible;
 }
