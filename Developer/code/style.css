@@ -229,6 +229,23 @@
     height:;
     width:420px;
 }
+#footer-text1 {
+ margin:55px 0px 0px 0px; 
+     color:#ffffff;
+    font-size:12px;
+}
+
+#return-to-top-button {
+  margin:-25px 0px 0px 900px;
+    color:#ffffff;
+    font-size:12px;
+}
+
+#footer-text2 {
+ margin:-26px 0px 0px 1800px;
+color:#ffffff;
+    font-size:12px;
+}
 
 #ian-bear {
     margin: -260px 0px 0px 630px;
