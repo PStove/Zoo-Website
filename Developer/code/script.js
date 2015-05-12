@@ -38,3 +38,11 @@ var preston2 = function() {
     document.getElementById("all").style.visibility="hidden";
     document.getElementById("backgroung").style.visibility="visible";
 };
+
+var bear = function() {
+    document.getElementById("ian-bear").style.margin="-280px 0px 0px 630px";
+};
+
+var bear2 = function() {
+    document.getElementById("ian-bear").style.margin="-260px 0px 0px 630px";
+};
