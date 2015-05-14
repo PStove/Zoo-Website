@@ -235,7 +235,6 @@
     font-size:12px;
 }
 
-<<<<<<< HEAD
 #return-to-top-button {
   margin:0px 0px 0px 600px;
 }
@@ -243,18 +242,7 @@
 #footer-text2 {
  margin:-25px 0px 0px 1795px;
 color:#ffffff;
-=======
-#return {
-    margin:-25px 0px 0px 900px;
-    color:#ffffff;
-    font-size:12px;
-}
-
-#footer-text2 {
-    margin:-25px 0px 0px 1800px;
-    color:#ffffff;
->>>>>>> 9932f9a250054ccc2419ca532c64045c24bcf70f
-    font-size:12px;
+font-size:12px;
 }
 
 #all {
