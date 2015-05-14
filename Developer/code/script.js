@@ -38,3 +38,7 @@ var preston2 = function() {
     document.getElementById("all").style.visibility="hidden";
     document.getElementById("backgroung").style.visibility="visible";
 };
+
+var tyler2 = function() {
+    window.scrollTo(200, 0);
+};
