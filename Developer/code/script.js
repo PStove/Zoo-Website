@@ -40,5 +40,5 @@ var preston2 = function() {
 };
 
 var tyler2 = function() {
-    window.scrollTo(200, 0);
+    window.scrollTo(0, 0);
 };
