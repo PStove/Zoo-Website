@@ -1,3 +1,7 @@
+* {
+    cursor: url('images/cursor2.png'), default; 
+}
+
 #header {
   font-size: 28px;
   font-family: "Myriad Pro";
